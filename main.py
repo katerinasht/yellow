@@ -2,7 +2,7 @@ import sys
 import random
 from PyQt5 import uic
 from PyQt5.QtGui import QPainter, QColor
-from PyQt5.QtWidgets import QWidget, QApplication, QPushButton, QMainWindow
+from PyQt5.QtWidgets import QApplication, QMainWindow
 
 
 class Okr(QMainWindow):
